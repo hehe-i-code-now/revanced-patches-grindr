@@ -1,3 +1,10 @@
+# [1.2.1] (2024-07-26)
+
+
+### Features
+
+* intended to work with 24.8.0
+
 # [1.2.0](https://github.com/Slenderman00/revanced-patches-grindr/compare/v1.1.4...v1.2.0) (2024-04-08)
 
 
