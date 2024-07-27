@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/hehe-i-code-now/revanced-patches-grindr/compare/v1.2.1...v1.3.0) (2024-07-27)
+
+
+### Features
+
+* trigger release ([0cce5cd](https://github.com/hehe-i-code-now/revanced-patches-grindr/commit/0cce5cd95dfdbfc20da6a3dd04676f27c8b65ba5))
+
 # [1.2.1] (2024-07-26)
 
 
