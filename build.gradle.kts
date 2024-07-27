@@ -36,10 +36,10 @@ tasks.withType(Jar::class) {
         attributes["Description"] = "Patches for Grindr."
         attributes["Version"] = version
         attributes["Timestamp"] = System.currentTimeMillis().toString()
-        attributes["Source"] = "git@github.com:Slenderman00/revanced-patches-grindr.git"
+        attributes["Source"] = "git@github.com:hehe-i-code-now/revanced-patches-grindr.git"
         attributes["Author"] = "You"
-        attributes["Contact"] = "joarheimonen@live.no"
-        attributes["Origin"] = "https://joar.me"
+        attributes["Contact"] = "hah@lol.com"
+        attributes["Origin"] = "https://lol.me"
         attributes["License"] = "GNU General Public License v3.0"
     }
 }
@@ -84,7 +84,7 @@ publishing {
             pom {
                 name = "Grindr patches"
                 description = "Patches for Grindr."
-                url = "https://joar.me"
+                url = "https://lol.me"
 
                 licenses {
                     license {
@@ -94,15 +94,15 @@ publishing {
                 }
                 developers {
                     developer {
-                        id = "Slenderman00"
-                        name = "Slenderman00"
-                        email = "joarheimonen@live.no"
+                        id = "hehe-i-code-now"
+                        name = "hehe-i-code-now"
+                        email = "hah@lol.com"
                     }
                 }
                 scm {
                     connection = "scm:git:git://github.com/you/revanced-patches.git"
-                    developerConnection = "scm:git:git@github.com:Slenderman00/revanced-patches-grindr.git"
-                    url = "https://github.com/Slenderman00/revanced-patches-grindr/"
+                    developerConnection = "scm:git:git@github.com:hehe-i-code-now/revanced-patches-grindr.git"
+                    url = "https://github.com/hehe-i-code-now/revanced-patches-grindr/"
                 }
             }
         }
