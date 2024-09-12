@@ -1,3 +1,9 @@
+# [1.4.0] (2024-09-12)
+
+### Features
+
+* updated compatible versions to release
+
 # [1.3.0](https://github.com/hehe-i-code-now/revanced-patches-grindr/compare/v1.2.1...v1.3.0) (2024-07-27)
 
 
