@@ -1,3 +1,5 @@
+## [1.4.1](https://github.com/hehe-i-code-now/revanced-patches-grindr/compare/v1.4.0...v1.4.1) (2024-09-12)
+
 # [1.4.0] (2024-09-12)
 
 ### Features
